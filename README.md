@@ -24,3 +24,12 @@ The app uses role-based views. Use these to test the different dashboards:
    git clone [https://github.com/Sushil2k4/scems.git](https://github.com/Sushil2k4/scems.git)
    cd scems
    bun install
+
+2. **Run Dev Server:**
+   ```bash
+   bun dev
+
+1. **Build:**
+   ```bash
+   bun run build
+
