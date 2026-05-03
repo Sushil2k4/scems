@@ -2,7 +2,7 @@
 
 A web app for campus event coordination. Built with the Vite + React + Shadcn stack and deployed on Vercel.
 
-**Live Link:** [https://scems-iota.vercel.app/](https://scems-iota.vercel.app/)
+**Live Link:** (https://scems-par8hmslg-sushil2k4s-projects.vercel.app/login)
 
 ## 🛠 Tech
 - **Frontend:** React, TypeScript, Tailwind CSS
